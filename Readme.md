@@ -65,6 +65,13 @@ Transform raw sales data into meaningful visualizations that drive business grow
 
 ---
 
+## DASHBOARD SNAPSHOT
+
+<img width="1146" height="644" alt="image" src="https://github.com/user-attachments/assets/67f027ec-6276-4d0b-bbf5-637c29b41b50" />
+
+<img width="740" height="388" alt="image" src="https://github.com/user-attachments/assets/6f5287b1-c347-4452-b19a-f474a28f89a3" />
+
+
 ## TECHNICAL IMPLEMENTATION
 ### Step-by-Step Development Process
 
