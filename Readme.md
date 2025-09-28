@@ -5,10 +5,10 @@
 ## EXECUTIVE SUMMARY
 ### Key Performance Metrics at a Glance
 
-**📊 Total Revenue:** $1.20M  
-**💰 Average Sale Value:** $141 per item  
-**📦 Items Sold:** 8,523 units across multiple outlets  
-**⭐ Customer Satisfaction:** Strong average ratings maintained
+**Total Revenue:** $1.20M  
+**Average Sale Value:** $141 per item  
+**Items Sold:** 8,523 units across multiple outlets  
+**Customer Satisfaction:** Strong average ratings maintained
 
 ---
 
